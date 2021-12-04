@@ -1,12 +1,12 @@
 # Neptune
-Toy programming language with syntax inspired by C, Go etc.
+A C-style toy programming language
 
 ## Progress
 - [x] Write a lexer using Logos that can handle most of the grammar
 - [ ] Write a recursive descent parser that can build an AST
 - [ ] Represent the language as an AST
 - [ ] Implement a type-checking pass, and constant reassignment pass
-- [ ] Compile to C code
+- [ ] Transpile to C code
 
 ## Examples
 
